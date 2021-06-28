@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @junsoo37
 - 👀 I’m interested in Data Science, ML, DL
-- 🌱 I’m currently learning Sota ML (especially in Recommendation system, Reinforcement Learning)
+- 🌱 I’m currently learning Sota ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me junsoor37@gmail.com
 
